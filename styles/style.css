@@ -1,8 +1,8 @@
 :root {
 
-    --clr-accent-500: hsl(12, 60%, 45%);
-    --clr-accent-400: hsl(12, 88%, 59%);
-    --clr-accent-300: hsl(12, 88%, 75%);
+    --clr-accent-500: #13183f;
+    --clr-accent-400: #83869a;
+    --clr-accent-300: liner-gradient(#F02AA6, #FF6F48);
     --clr-accent-100: hsl(13, 100%, 96%);
 
     --clr-primary-400: hsl(228, 39%, 23%);
